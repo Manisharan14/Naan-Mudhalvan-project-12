@@ -1,0 +1,3 @@
+PS C:\Users\KATARI MANI SHARAN\OneDrive\Desktop\Naan Mudhalvan> cd "C:\Users\KATARI MANI SHARAN\OneDrive\Desktop\Naan Mudhalvan\Hackathon NM"
+PS C:\Users\KATARI MANI SHARAN\OneDrive\Desktop\Naan Mudhalvan\Hackathon NM> python App.py         
+this is commands i used to get image 
